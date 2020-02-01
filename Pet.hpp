@@ -26,5 +26,5 @@ public:
     void set_weight(double new_weight);
     double get_weight();
 
-    void pet_info();
+    void pet_info(); // This method prints out object's info to console.
 };
